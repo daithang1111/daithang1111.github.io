@@ -8,5 +8,3 @@ I start this blog to share interesting issues that I experience while conducting
 ## Try to write some math equation
 
 Try a simple variable $$x$$, with some mathematics $$ x^{2} + y^{2} = z^{2} $$.
-
-\( x^{2} + y^{2} = z^{2} \) and \[x^{2} + y^{2} = z^{2}\].
