@@ -7,4 +7,8 @@ I start this blog to share interesting issues that I experience while conducting
 
 ## Try to write some math equation
 
-<script>$E=\frac{2}{3}$</script>
+A simple markdown file, $$x$$, with some mathematics:
+
+ \$\$ x^{2} + y^{2} = z^{2} \$\$
+
+ A new paragraph after a block of mathematics ...
